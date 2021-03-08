@@ -34,7 +34,7 @@ body {
 	background-color:#ffab23;
 }
 .myButton:active {
-	position:relative;
+	
 	top:1px;
 }
 
