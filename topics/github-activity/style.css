@@ -20,7 +20,7 @@ body {
 	background-color:#ffec64;
 	border-radius:28px;
 	border:1px solid #ffaa22;
-	display:inline-block;
+	display:block;
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
@@ -28,6 +28,7 @@ body {
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffee66;
+	margin-top: 20px;
 }
 .myButton:hover {
 	background-color:#ffab23;
