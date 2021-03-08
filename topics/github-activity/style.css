@@ -17,7 +17,7 @@ body {
 }
 
 .myButton {
-	align: center;
+	text-align: center;
 	background-color:#ffec64;
 	border-radius:28px;
 	border:1px solid #ffaa22;
@@ -35,7 +35,7 @@ body {
 	background-color:#ffab23;
 }
 .myButton:active {
-	
+	text-align: center;
 	top:1px;
 }
 
