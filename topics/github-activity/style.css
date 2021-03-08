@@ -17,7 +17,7 @@ body {
 }
 
 .myButton {
-	text-align: center;
+	align: center;
 	background-color:#ffec64;
 	border-radius:28px;
 	border:1px solid #ffaa22;
